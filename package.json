@@ -23,7 +23,7 @@
     "promise-polyfill": "^8.1.3",
     "replace-in-file": "^5.0.2",
     "stylelint": "^12.0.0",
-    "sweetalert2": "^9.5.2"
+    "sweetalert2": "^9.5.4"
   },
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
   "contributors": [
